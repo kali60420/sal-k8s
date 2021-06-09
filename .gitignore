@@ -5,7 +5,7 @@ saleor_core
 saleor_core_dev
 saleor_dashboard
 saleor_storefront
-charts/saleor-platform/charts
+charts/saleor-platform/charts/*.tgz
 charts/saleor-platform/tmpcharts
 charts/saleor-platform/Chart.lock
 downloads
